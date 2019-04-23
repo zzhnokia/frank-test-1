@@ -24,26 +24,6 @@ export default {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* helpers */
 function createToast ({Vue, message, propsData, onClose}) {
   let Constructor = Vue.extend(Toast)
